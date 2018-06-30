@@ -1,0 +1,8 @@
+airtable-python-wrapper
+pendulum==1.4.3
+tweepy
+emoji
+python-dotenv
+beautifulsoup4
+pandas
+selenium
